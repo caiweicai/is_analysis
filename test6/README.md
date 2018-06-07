@@ -17,7 +17,7 @@
 
 ![](./系统总体结构.png)
 
-页面设计 https://github.com/caiweicai/is_analysis/tree/master/test6/ui/index.html
+页面设计 [https://caiweicai.github.io/is_analysis/test6/ui/index.html](https://caiweicai.github.io/is_analysis/test6/ui/index.html)
 
 ## 3.用例图设计 [源码](./src/用例图设计.puml) 
 
