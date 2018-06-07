@@ -17,7 +17,7 @@
 
 ![](./系统总体结构.png)
 
-[页面设计](https://caiweicai.github.io/is_analysis/test6/ui/index.html) 
+页面设计 https://github.com/caiweicai/is_analysis/tree/master/test6/ui/index.html
 
 ## 3.用例图设计 [源码](./src/用例图设计.puml) 
 
@@ -41,12 +41,12 @@
 
 - ### [“评定成绩”用例](https://github.com/caiweicai/is_analysis/tree/master/test6/用例/评定成绩.md)
 
+- ### [“修改密码”用例](https://github.com/caiweicai/is_analysis/tree/master/test6/用例/修改密码.md)
+
 - ### [“登出”用例](https://github.com/caiweicai/is_analysis/tree/master/test6/用例/登出.md)
 
 - ### [“登录”用例](https://github.com/caiweicai/is_analysis/tree/master/test6/用例/登出.md)
 
 - ### ["课程选择"用例](https://github.com/caiweicai/is_analysis/tree/master/test6/用例/课程选择.md)
 
-- ### [“登录”用例](https://github.com/zwdbox/is_analysis/blob/master/test6/%E7%94%A8%E4%BE%8B/%E7%99%BB%E5%BD%95.md),[界面](https://zwdbox.github.io/is_analysis/test6/ui/%E7%99%BB%E5%BD%95.html)
-
-- ​
+  ### 
